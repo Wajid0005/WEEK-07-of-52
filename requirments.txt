@@ -1,6 +1,5 @@
 streamlit
 scikit-learn
-python-3.11
 pandas
 numpy
 nltk==3.8.1
